@@ -22,3 +22,6 @@ Segmentation to get the fingerprints in an ID card
 - Fingerprints are successfully extracted from any scanned image.
 - Automatically crop and rotate fingerprint images so you just need to save it and use.
 
+# TODO
+- For any new type of document, we need to figure out the format and make changes in some parameters in order to get the best result.
+- Email me at khanhhanguyen2310@gmail.com if you have any question or idea related to the project.
